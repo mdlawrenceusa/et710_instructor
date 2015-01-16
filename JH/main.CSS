@@ -1,0 +1,45 @@
+ 
+.jumbotron {
+  background-image:url('http://crispme.com/wp-content/uploads/13255.jpg?pass');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+}
+
+.jumbotron .container {
+  position: relative;
+  top:20px;
+}
+
+.jumbotron h1 {
+  color:#333333;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #333333;
+}
+.jumbotron p a {
+    color: White;
+}
+
+
+.description h2{
+    font-size:24px;
+    margin-top:100px;
+    color:#0000FF;
+}
+
+.description p{
+	color:#0000FF;
+    font-size:15px;
+}
+
+.row{
+	margin-left:10px;
+}
+ 
